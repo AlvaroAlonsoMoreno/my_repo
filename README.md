@@ -1,1 +1,1 @@
-Primer fichero en el primer repositorio de Álvaro Alonso Moreno
+Primer fichero en el primer repositorio de Alvaro Alonso Moreno
